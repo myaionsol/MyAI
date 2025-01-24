@@ -9,7 +9,7 @@
 
 - 🌐 **[Try the Demo](https://myai.fun)**
 - 🛠️ **[GitHub Repository](https://github.com/myaionsol/myai)**
-- 📄 **[Documentation](https://GITBOOK_LINK)**
+- 📄 **[Documentation](https://myai-docs.gitbook.io/myai-docs)**
 - 💬 **[Connect with us on X](https://x.com/MyAI_on_Sol)**
 - [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 
